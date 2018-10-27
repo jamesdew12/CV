@@ -18,3 +18,10 @@ I worked as a Teaching Assistant for the Arundel Cricket Club Foundation, which 
 # Notting Hill Music and Goods Exchange (2017 to 2018)    
 - Retail assistant
 - Worked in the oldest record and vintage clothing shop in notting hill just off portobello. I was given roles such as to style the clothes in the shop and organise the racks, same applys to the records.
+
+# Tullet Prebon, London (July 2016) Work Experience
+I spent most of my time at the desks of the brokers', alongside some work in finance, customer service and app development for short periods. At the desks the brokers showed me the service they provided, their clients and how customers came for their price matching service. Furthermore the different desks showed me the different markets; I found the commodities and interests markets to be the most exciting.
+
+# Castledown Radio (February 2016) Presenter
+I presented a one hour radio show which had over 1000 people in the local area listening at the time. I played songs of my choice and discussed topical issues.
+
