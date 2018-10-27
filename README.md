@@ -4,9 +4,9 @@ Coding is the first skill i've been teaching myself and eager to learn since I l
 
 ## Skills
 
-#### This Skill
+#### Retail
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I'
 
 - Experience
 - Achievements
@@ -22,7 +22,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
-
+My highest education is secondary school, I went to wellington college school before joing Hurtwood House for my final two years of school to study Economics, Mathematics and Media studies. In that time I enjoyed Maths and Media studies the most, learning statistics and core maths to creating a short film in Media studies, which even won me a student award presented by the BFI.
+- Maths A Level - C Grade
+- Media Studies A Level - B Grade
+- Economics As Level - B Grade
 #### Makers Academy (start_date to end_date)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
