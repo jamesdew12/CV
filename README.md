@@ -8,7 +8,8 @@ I spent lots of my time working on small projects in various languages. The lang
 - Python, Django
 - Javascript, React
 - RSpec
-
+https://github.com/jamesdew12/acebook-firenze - Facebook replica on rails without messaging.
+https://tweet-mood.herokuapp.com/ - Final Project deployed on Heroku - Twitter analysing API
 
 ## Education
 My highest education is secondary school, I went to wellington college school before joing Hurtwood House for my final two years of school to study Economics, Mathematics and Media studies. In that time I enjoyed Maths and Media studies the most, learning statistics and core maths to creating a short film in Media studies, which even won me a student award presented by the BFI (Best creative director).
