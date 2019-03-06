@@ -1,26 +1,37 @@
-## James de Winton
-
-I have just finished my coding course at Makers Academy in commercial street. Here I have been given the experience in coding, especially when it comes to working in group projects. I’m 19 years old and eager to get my first job in a working environment. I spent my time at school (Wellington College and Hurtwood House) study Math’s, Economics and Media studies, in which I won a junior BFI for my group coursework. The reason I decided not to go university is because I personally feel that there wouldn’t be a point going to university if there is nothing I’m passionate enough to study for 3 plus years conclusively I decided against university because I wanted more of a hands on approach when it came to learning how to code. 
-
-I spent lots of my time working on small projects in various languages. The language I have worked with include Ruby, Python and Javascript. I worked in a team that built a twitter API that would return the combined emotions of the 100 most recent/relevant tweets related to a topic searched, you can find the project on my GitHub (jamesdew12), we also deployed it to Heroku. Furthermore we also did another group project where we create Facebook with the same functionality other than messaging. In both of these projects I used different languages that I was new to, python and ruby/ruby on rails. I feel I have the ability to solve problems with ease, as I have a routine for solving them. In a group project we used an agile work process that included 2 day sprints, morning stand ups, evening retrospectives, option to pair, Trello board and 2 people reviewing pull requests before a merge, because of our work process in our Twitter API our final project exceeded our MVP by a long way.
-#### Makers Academy (Current)
-- Ruby, Rails
-- Python, Django
-- Javascript, React
-- RSpec
-https://github.com/jamesdew12/acebook-firenze - Facebook replica on rails without messaging.
-https://tweet-mood.herokuapp.com/ - Final Project deployed on Heroku - Twitter analysing API
-
-## Education
-My highest education is secondary school, I went to wellington college school before joing Hurtwood House for my final two years of school to study Economics, Mathematics and Media studies. In that time I enjoyed Maths and Media studies the most, learning statistics and core maths to creating a short film in Media studies, which even won me a student award presented by the BFI (Best creative director).
-- Maths A Level - C Grade
-- Media Studies A Level - B Grade
-- Economics As Level - B Grade
+JAMES DE WINTON
+	London, SW17 7DL	 
+	james.dewinton@gmail.com
+ 
+	www.linkedin.com/in/james-d-124986136	 
+	07833 291051	 
 
 
-## Arundel Cricket Club Foundation
+Professional Profile
+A coding and full stack development enthusiast with strong understanding of integrating various languages and technologies to fulfil project requirements and resolve technical problems. Adopts a consultative approach to ensure specific requirements are met whilst focusing on exceeding expectations. An innovative strategist who has contributed to projects through application of backend programming knowledge, and ability to identify key gaps. Works well in a team without supervision, and excels within fast-paced and challenging environments. 
+Core Competencies:
+Code Integrity | Programming | Architectural Design | Problem Solving | Project Management | Deployment
+Database Management | Agile | Server Management | Team Leader | Quality Assurance | Web Applications
+Education & Professional Development
+ 	Coding Course, Makers Academy
+ 	A Levels, Wellington College (2012-2015) Hurtwood House (2015-2017)
+ACADEMIC HIGHLIGHTS
+•	Developed a Twitter API in a team that would isolate the combined emotions of 100 most recent/relevant tweets related to a topic search, and eventually also deployed it to Heroku.
+•	Replicated Facebook with same functionality except for the messaging function as a group project.
+•	Utilised Agile work processes such as 2-day sprints, morning stand-ups, evening retrospectives, option-to-pair, Trello boards, and pull request reviews prior to merge due to exceed of MVP.
+•	BFI Film Award 2016 for Group Media Studies Coursework Project
+TECHNICAL SKILLS: Python, Django, JavaScript, React, Ruby, Rails, Microsoft Office Suite	2019
+2017
+Career Summary
+ 	Retail Assistant, Notting Hill Music & Goods Exchange	2017-2018
+•	Ensured smooth daily store activities with focus on restocking, visual management, driving sales, attending to patrons’ queries, receiving deliveries, communicating with suppliers, and providing a pleasant retail experience.
+ 	Internship, Tullet Prebon	2016
+•	Shadowed brokers across daily operations in various functions such as finance, customer service and app development, learnt about services provided, client variety, customer engagement, commodities and interests.
+ 	 Teaching Assistant, Arundel Cricket Club Foundation
+ 	 Presenter, Castledown Radio
+	2015
+2015
+References are available upon request
 
-I worked as a Teaching Assistant for the Arundel Cricket Club Foundation, which is a charity that gives children from the inner city a week in the country on a cricket course. I led activities for a group of younger children.
 
 # Notting Hill Music and Goods Exchange (2017 to 2018)    
 - Retail assistant
