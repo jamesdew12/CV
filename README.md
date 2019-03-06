@@ -12,11 +12,9 @@ A coding and full stack development enthusiast with strong understanding of inte
 Code Integrity | Programming | Architectural Design | Problem Solving | Project Management | Deployment
 Database Management | Agile | Server Management | Team Leader | Quality Assurance | Web Applications
 
-# Education & Professional Development
+# Education, Professional Development and Projects
  	Coding Course, Makers Academy
  	A Levels, Wellington College (2012-2015) Hurtwood House (2015-2017)
-
-# ACADEMIC HIGHLIGHTS
 
 - Developed a Twitter API in a team that would isolate the combined emotions of 100 most recent/relevant tweets related to a topic search, and eventually also deployed it to Heroku.
 - Replicated Facebook with same functionality except for the messaging function as a group project.
