@@ -27,14 +27,14 @@ Database Management | Agile | Server Management | Team Leader | Quality Assuranc
 Python, Django, JavaScript, React, Ruby, Rails
 
 # Career Summary
- 	Retail Assistant, Notting Hill Music & Goods Exchange	2017-2018
-•	Ensured smooth daily store activities with focus on restocking, visual management, driving sales, attending to patrons’ queries, receiving deliveries, communicating with suppliers, and providing a pleasant retail experience.
- 	Internship, Tullet Prebon	2016
-•	Shadowed brokers across daily operations in various functions such as finance, customer service and app development, learnt about services provided, client variety, customer engagement, commodities and interests.
- 	 Teaching Assistant, Arundel Cricket Club Foundation
- 	 Presenter, Castledown Radio
-	2015
-2015
-References are available upon request
+Retail Assistant, Notting Hill Music & Goods Exchange	2017-2018
+- Ensured smooth daily store activities with focus on restocking, visual management, driving sales, attending to patrons’ queries, receiving deliveries, communicating with suppliers, and providing a pleasant retail experience.
+
+Internship, Tullet Prebon	2016
+- Shadowed brokers across daily operations in various functions such as finance, customer service and app development, learnt about services provided, client variety, customer engagement, commodities and interests.
+
+- Teaching Assistant, Arundel Cricket Club Foundation
+- Presenter, Castledown Radio
+
 
 
