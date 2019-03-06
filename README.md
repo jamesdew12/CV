@@ -23,7 +23,9 @@ Database Management | Agile | Server Management | Team Leader | Quality Assuranc
 - Utilised Agile work processes such as 2-day sprints, morning stand-ups, evening retrospectives, option-to-pair, Trello 	boards, and pull request reviews prior to merge due to exceed of MVP.
 - BFI Film Award 2016 for Group Media Studies Coursework Project
 
-# TECHNICAL SKILLS: Python, Django, JavaScript, React, Ruby, Rails, Microsoft Office Suite	2019
+# TECHNICAL SKILLS: 
+Python, Django, JavaScript, React, Ruby, Rails
+
 2017
 Career Summary
  	Retail Assistant, Notting Hill Music & Goods Exchange	2017-2018
