@@ -5,12 +5,11 @@
 
 
 # Professional Profile
-
-A coding and full stack development enthusiast with strong understanding of integrating various languages and technologies to fulfil project requirements and resolve technical problems. Adopts a consultative approach to ensure specific requirements are met whilst focusing on exceeding expectations. An innovative strategist who has contributed to projects through application of backend programming knowledge, and ability to identify key gaps. Works well in a team without supervision, and excels within fast-paced and challenging environments. 
+I chose to take a hands on coding course instead of going to university to get a more hands on approach when learning how to code. I’m a coding and full stack development enthusiast with strong understanding of integrating various languages and technologies to fulfil project requirements and resolve technical problems; moreover I’m more interested in working in the back end. Adopts a consultative approach to ensure specific requirements are met whilst focusing on exceeding expectations. An innovative strategist who has contributed to projects through application of backend programming knowledge, and ability to identify key gaps. Works well in a team without supervision, and excels within fast-paced and challenging environments. 
 
 # Core Competencies:
-Code Integrity | Programming | Architectural Design | Problem Solving | Project Management | Deployment
-Database Management | Agile | Server Management | Team Leader | Quality Assurance | Web Applications
+Clean code | Data Flow | Architectural Design | Problem Solving | Machine Learning | Deployment
+Database Management | Agile | Server Management | Unit Testing | Quality Assurance | Web Applications
 
 # Education, Professional Development and Projects
  	Coding Course, Makers Academy
