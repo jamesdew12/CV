@@ -32,11 +32,10 @@ Database Management | Agile | Server Management | Unit Testing | Quality Assuran
 I communicate clearly with people around me, taking on the XP values when interacting with team members and pair programmers. I love getting feedback from peers, it gives me honest and positive feedback about how I can improve. Furthermore I am confident when it comes to introducing knew ideas to a group, as well as identifying problems.
 
 #### Competitive
-I believe that striving to improve and being hungry to pick up new skills is integral to move forward as a developer, and throughout my time at Makers I've quickly grasped new concepts and incorporated them into my skill set. I like inheriting responsibility and pushing to see how far I can go in a given amount of time.
+Since I starting coding and getting more into it, I've become obsessed in acquiring new knowledge and gaining a better understanding of things I don't understand; since finishing makers I have done small projects in Java, Swift and React, so I can move forward as a developer, throughout Makers I've quickly learnt new concepts. 
 
 #### Team player
-
-I'm eager to work with people with different skillsets as it provides us valuable opportunities to learn, as well as being empathetic to accommodate for my pair partner's or team member's learning.
+I love to work with people with different skillssets because it gives a valuable opportunity to learn, as well as being empathetic to help my pair programmer or teams learning.
 
 ## Education
 
@@ -47,7 +46,7 @@ A highly selective 16 week bootcamp based in London, with a 10% acceptance rate 
 * Learning Agile, SOLID and XP practices with a challenging curriculum
 * TDD approach which encourages pair programming and problem solving
 * Focus on refactoring with DRY principles and crafting elegant, maintainable code
-* Ruby, Rails, JavaScript, Sinatra, PostgreSQL
+* Python, Ruby, Rails, JavaScript, Sinatra, PostgreSQL
 
 # Career Summary
 Retail Assistant, Notting Hill Music & Goods Exchange	2017-2018
