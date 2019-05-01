@@ -7,9 +7,9 @@
 | Project | Summary | Technologies | Testing
 | ------ | ------ |  ------ |  ------ |
 | TweetMood (https://github.com/jamesdew12/tweet_mood)| This was my final project at Makers, I did it in a team of 4.	Developed a Twitter API in a team that would isolate the combined emotions of 100 most recent/relevant tweets related to a topic search, and eventually also deployed it to Heroku. | Python, Django, Watson (IBM) | Pytest|
-| Yelp ([GitHub](https://github.com/VarunCodes/rails-yelp))| Group project to recreate Yelp over the course of a week, as our first entry point into the Rails framework. | Ruby on Rails | RSpec
-| Strepkills ([GitHub](https://github.com/VarunCodes/mmog))| A fun one-week group project to build a multiplayer game which can be played through the user's browser. | Redis, WebSockets, Rails, Postgres | RSpec |
-| Swapaway ([GitHub](https://github.com/Mnargh/Swapaway))| Learning a brand new stack (MERN) while creating an item trading platform for users to barter and arrange item exchanges. | React, Node, Express, MongoDB | Jest, Enzyme, Chai, Mocha
+|Chatbot (https://github.com/jamesdew12/chatbot)| Built a simple chatbot that runs in the command line, did this to help understand the flow of data and better my understanding on machine learning, data ingestion and segmentation.  | Python, NLTK | Nil
+| Acebook (https://github.com/jamesdew12/acebook-firenze))| Built a facebook replica with the messaging functionality in a group over a week, deployed to heroku | Rails, Postgres | RSpec |
+| API on Rails (https://github.com/jamesdew12/api-on-rails)| Built a simple rails API on my own so I could setup everything myself to further solidfy knowledge on areas I didn't work on in group projects, particularlly the front-end| Rails | RSpec
 
 # Professional Profile
 I chose to take a hands on coding course instead of going to university to get a more hands on approach when learning how to code. I’m a coding and full stack development enthusiast with strong understanding of integrating various languages and technologies to fulfil project requirements and resolve technical problems; moreover I’m more interested in working in the back end. Adopts a consultative approach to ensure specific requirements are met whilst focusing on exceeding expectations. An innovative strategist who has contributed to projects through application of backend programming knowledge, and ability to identify key gaps. Works well in a team without supervision, and excels within fast-paced and challenging environments. 
