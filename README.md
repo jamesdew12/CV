@@ -1,5 +1,5 @@
 # JAMES DE WINTON	 
-- Keen coding enthuast with a keen interest in machine learning at the start of an exciting career in Development. As a creatively minded and proactive learner, I'm seeking to build something cool and be in a position where i'm continuously learning.
+- Keen coding enthuast with a keen interest in machine learning at the start of an exciting career in Development. As a creatively minded and proactive learner, I'm seeking to build something cool and be in a position where i'm continuously learning, looking to gain experience which I don't have.
 
 ## Projects
 | Project | Summary | Technologies | Testing
