@@ -35,7 +35,9 @@ A highly selective 16 week bootcamp based in London, with a 10% acceptance rate 
 * As a fan of competitive sports my favourites include football and cricket.
 * I love to travel, spent lots of my time backpacking to lots of different countrys (India, Nepal, Myanmar, Thailand, Cambodia, Vietnam, China, South Korea).
 * Cycling, love to cycle, but not in london (dangerous), cycled across Holland in 2018 summer.
-* Love film making, won a BFI Film Award 2016 for Group Media Studies Coursework Project
+* Love film making, won a BFI Film Award 2016 for Group Media Studies Coursework Project.
+* Huge Game of thrones fan
+
 
 ## Networks
 https://www.linkedin.com/in/james-d-124986136/ 
