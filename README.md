@@ -4,10 +4,10 @@
 ## Projects
 | Project | Summary | Technologies | Testing
 | ------ | ------ |  ------ |  ------ |
-| TweetMood (https://github.com/jamesdew12/tweet_mood)| This was my final project at Makers, I did it in a team of 4.	Developed a Twitter API in a team that would isolate the combined emotions of 100 most recent/relevant tweets related to a topic search, and eventually also deployed it to Heroku. | Python, Django, Watson (IBM) | Pytest|
-|Chatbot (https://github.com/jamesdew12/chatbot)| Built a simple chatbot that runs in the command line, did this to help understand the flow of data and better my understanding on machine learning, data ingestion and segmentation.  | Python, NLTK | Nil
-| Acebook (https://github.com/jamesdew12/acebook-firenze))| Built a facebook replica with the messaging functionality in a group over a week, deployed to heroku | Rails, Postgres | RSpec |
-| API on Rails (https://github.com/jamesdew12/api-on-rails)| Built a simple rails API on my own so I could setup everything myself to further solidfy knowledge on areas I didn't work on in group projects, particularlly the front-end| Rails | RSpec
+| [TweetMood](https://github.com/jamesdew12/tweet_mood)| This was my final project at Makers, I did it in a team of 4.	Developed a Twitter API in a team that would isolate the combined emotions of 100 most recent/relevant tweets related to a topic search, and eventually also deployed it to Heroku. | Python, Django, Watson (IBM) | Pytest|
+| [Chatbot](https://github.com/jamesdew12/chatbot)| Built a simple chatbot that runs in the command line, did this to help understand the flow of data and better my understanding on machine learning, data ingestion and segmentation.  | Python, NLTK | Nil
+| [Acebook](https://github.com/jamesdew12/acebook-firenze))| Built a facebook replica with the messaging functionality in a group over a week, deployed to heroku | Rails, Postgres | RSpec |
+| [API on Rails](https://github.com/jamesdew12/api-on-rails)| Built a simple rails API on my own so I could setup everything myself to further solidfy knowledge on areas I didn't work on in group projects, particularlly the front-end| Rails | RSpec
 
 ## Skills
 
